@@ -20,7 +20,7 @@ const Home = () => {
 			</S.HomeHeaderDetails>
 		</header>                  	        
                 <Banner/>
-                <GameList/>
+                <GameList/>            
         </S.Home>
 );
 };

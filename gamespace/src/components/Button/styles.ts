@@ -24,7 +24,6 @@ export const ButtonStyle = styled.button`
     margin-top: 25px;
     &:hover{
         background-color: #1a4a15;
-        border-color: #ffff;
     }
 `;
 

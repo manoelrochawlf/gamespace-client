@@ -22,6 +22,7 @@ export const HomeHeaderDetails = styled.div`
 	${() => css`
 		display: flex;
 		justify-content: space-between;
+		align-items:center;
 	`}
 `;
 
